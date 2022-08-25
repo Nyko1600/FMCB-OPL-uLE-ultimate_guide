@@ -30,3 +30,7 @@ Guia definitiva para instalar Free MC Boot y opl en cualquier Play Station 2 (ps
   > :warning: Si la lectora no funciona y no se tiene otra MC no hat forma de continuar, la solucion seria conseguir una ps2 con la lectora funcionado. Tambien es posible adquirir una MC ya preparada por internet. Algunas casa de videojuegos instlana el FMCB o Fortuna en las MC
 
 2. El siguente paso es intstalar el [FMCB](https://www.ps2-home.com/forum/viewtopic.php?t=1248) o el [Fortuna Project](https://www.ps2-home.com/forum/viewtopic.php?t=8542)
+
+  - Si la PS2 no es de la serie 90000 y si la MC es orignal de SONY utilizaremos FMCB, las versiones estan en interent pero en este [enlace](Free%20MCBoot) hay algunas versiones
+
+  - Si no se cumplen esas condiciones debemos instalar Fortuna, este repo ya cuenta con una [version](FunTuna-R2.psu) pero se puede desacargar la version mas reciente en www.ps2-home.com
