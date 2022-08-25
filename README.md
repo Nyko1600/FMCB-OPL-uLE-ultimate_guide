@@ -12,11 +12,11 @@ Guia definitiva para instalar Free MC Boot y opl en cualquier Play Station 2 (ps
 
 **Open PS2 Loade (OPL)**: Es una aplicacion que permite ejecutar los juegos desde una unidad flash, desde una ubicacion de red o de un disco duro, tambien se puede configurar para ejecutar otras aplicaciones. Es tal vez la aplicacion mas interesante para PS2
 
-[OPL](OPLimg.png)
+![OPL](OPLimg.png)
 
 **uLaunchELF (uLE)**: Es un gestor de archivos que permite acceder a los medios de almacenamiento de la PS2, tambien puede ejectuar aplicaciones que tengan la extion ELF.
 
-[uLE](ulaunchelf.jpg)
+![uLE](ulaunchelf.jpg)
 
 **Fortuna Project**: Es un programa que permite iniciar otro programa en una MC, se utliza para los casos donde no se puede isntalar FMCB directamente en la MC, o para las ps2 de la serie 90000
 
@@ -66,9 +66,12 @@ Guia definitiva para instalar Free MC Boot y opl en cualquier Play Station 2 (ps
 
 [OPL en idioma español / Configurar OPL en español](https://www.youtube.com/watch?v=E5sywpPcVPc)
 
-[Parchear juego PS2 de PAL a NTSC (Los mejores resultados](https://www.youtube.com/watch?v=a2Kg8nIaPpQ))
+[Parchear juego PS2 de PAL a NTSC (Los mejores resultados)](https://www.youtube.com/watch?v=a2Kg8nIaPpQ)
 
 [DISABLED ACTIVAR Y DESACTIVAR CHIP MATRIX PS2](https://www.youtube.com/watch?v=ADrf8pVXJI8)
 
 [inicio automatico de aplicaciones con freemcboot | configurar aplicaciones de inicio rápido ps2](https://www.youtube.com/watch?v=kWTQZD1puh8)
+
+[COMO CONFIGURAR EL OPL PS2 | GUIA COMPLETA DEL OPL PS2 2021](https://www.youtube.com/watch?v=77U4Aoet1aU)
+
 
